@@ -1,16 +1,33 @@
-# Personalized-Medical-Recommendation-System-with-Machine-Learning
-Welcome to our cutting-edge Personalized Medical Recommendation System, a powerful platform designed to assist users in understanding and managing their health. Leveraging the capabilities of machine learning, our system analyzes user-input symptoms to predict potential diseases accurately. Here's what sets our system apart:
+# Personalized Disease Prediction and Medical Recommendation System with Machine Learning
 
-User-Friendly Interface: Our intuitive interface allows users to input their symptoms effortlessly, creating a seamless user experience.
+Welcome to our cutting-edge Personalized Medical Recommendation System, a powerful platform designed to assist users in understanding and managing their health. Leveraging the capabilities of machine learning, our system analyzes user-input symptoms to predict potential diseases accurately. 
 
-Advanced Machine Learning Models: We've integrated state-of-the-art machine learning models that accurately predict diseases based on input symptoms, ensuring reliable and precise results.
+## Features
 
-Tailored Recommendations: Receive personalized recommendations for the top 5 medicines, prescription details, and even workout routines based on the predicted disease.
+- **User-Friendly Interface**: Our intuitive interface allows users to input their symptoms effortlessly, creating a seamless user experience.
+- **Advanced Machine Learning Models**: We've integrated state-of-the-art machine learning models that accurately predict diseases based on input symptoms, ensuring reliable and precise results.
+- **Tailored Recommendations**: Receive personalized recommendations for the top medicines, prescription details, diet routine, and even workout routines based on the predicted disease.
+- **Flask App Integration**: The entire system is powered by a Flask web application, making it easily accessible to users. Experience the convenience of accessing healthcare recommendations from anywhere.
+- **Continuous Improvement**: Our system is designed for continuous improvement. As we gather more data, the machine learning models evolve, providing increasingly accurate and relevant recommendations.
 
-Flask App Integration: The entire system is powered by a Flask web application, making it easily accessible to users. Experience the convenience of accessing healthcare recommendations from anywhere.
+## Project Overview
 
-Privacy and Security: We prioritize user privacy and data security. Your health information is handled with the utmost confidentiality, adhering to the highest industry standards.
+This project involves disease prediction and providing recommendations for medicines, workouts, and diets based on the predicted disease. The model was trained using the Support Vector Machine (SVM) algorithm, achieving an accuracy score of 96%. The user interface is built with HTML, CSS, and Flask.
 
-Continuous Improvement: Our system is designed for continuous improvement. As we gather more data, the machine learning models evolve, providing increasingly accurate and relevant recommendations.
+## Usage
 
-Take charge of your health with our Personalized Medical Recommendation System. Your well-being is our priority, and we're dedicated to providing you with the tools and insights you need for a healthier, happier life.
+1. Open the link.
+2. Input your symptoms in the provided fields.
+3. Receive your disease prediction along with personalized recommendations for medicines, workouts, and diets.
+
+## Project Structure
+
+- `static/`: Contains static files such as CSS and JavaScript.
+- `templates/`: Contains HTML templates for the web pages.
+- `app.py`: The main Flask application file.
+- `model.pkl`: The trained machine learning model.
+- `requirements.txt`: A list of Python dependencies required for the project.
+
+- Link for the Project: 
+
+Thanky you for the visit..!!
