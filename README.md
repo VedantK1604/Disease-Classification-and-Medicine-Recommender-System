@@ -28,6 +28,6 @@ This project involves disease prediction and providing recommendations for medic
 - `model.pkl`: The trained machine learning model.
 - `requirements.txt`: A list of Python dependencies required for the project.
 
-- Link for the Project: 
+- Link for the Project: https://disease-prediction-and-medicine.onrender.com
 
 Thanky you for the visit..!!
